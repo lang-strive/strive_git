@@ -88,6 +88,8 @@ git branch
 ``` bash
 git branch -d 分支名
 ```
+
+
 -----------------------------------------------
 github(码云，gitlab):
 	注册
@@ -138,10 +140,5 @@ gitPage: （个人网站）
 	e). git push
 		-> username:邮箱
 		-> 密码
-二、发布任意网站
-	settings
 
-git分支练习网址:
-https://lang-strive.github.io/git/git.txt
-个人站网址:
-https://lang-strive.github.io/strive/index.html
+

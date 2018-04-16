@@ -8,9 +8,9 @@
 
 ## git:
 ``` bash
-0. 图形操作
+1. 图形操作
 	https://www.sourcetreeapp.com/
-1. 命令 √
+2. 命令 √
 	安装git客户端:
 	https://git-for-windows.github.io/
 

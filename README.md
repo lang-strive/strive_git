@@ -1,7 +1,7 @@
 ## git客户端:
-``` bash
-https://www.sourcetreeapp.com/                //sourcetree
-```
+
+### https://www.sourcetreeapp.com/                //sourcetree
+
 
 ## git——代码版本管理工具
 > 分布式管理

@@ -6,7 +6,7 @@
 > 分布式管理
 > 速度快
 
-## git:
+## git操作:
 ``` bash
 1. 图形操作
 	https://www.sourcetreeapp.com/
@@ -35,7 +35,7 @@ vi  a.txt	->	"i" -> 编辑 -> esc -> :wq
 cat a.txt	查看文件内容
 ```
 
-## 仓库(文件夹)
+## git仓库(文件夹)
 
 > 普通目录变成git仓库:	
 ``` bash

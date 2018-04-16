@@ -107,8 +107,9 @@ id_rsa和id_rsa.pub
 4. 把秘钥填写到相应网站上(github)
 	点击头像 -> settings -> SSH and GPG key -> 添加
 ```
----------------------------------------------------
-往github上放东西(远程操作):
+
+## 往github上放东西(远程操作):
+``` bash
 1. 确保github上已经建了一个项目:
 2. git clone 项目地址
 3. 本地正常操作
@@ -118,26 +119,4 @@ id_rsa和id_rsa.pub
 	git push
 5. 更新
 	git pull
----------------------------------------------------
-gitPage: （个人网站）
-1. 在github上创建一个仓库
-	仓库名称:  你的名称.github.com
-2. 点击仓库里面 setttings
----------------------------------------------------
-现在需要做的:
-一、
-1. 	git config --global user.email "xxxx"
-	git config --global user.name ""
-2. github创建一个仓库
-	复制仓库地址
-
-	a).git clone 复制地址
-
-	b).新增一个文件
-	c). git add 文件名    //  git add .
-	d). git commit -m '此次提交描述信息'
-	e). git push
-		-> username:邮箱
-		-> 密码
-
-
+```

@@ -41,16 +41,20 @@ cat a.txt	查看文件内容
 ``` bash
 git init
 ```
+> 查看此时git仓库状态
+``` bash
+git status
+```
 
-git status	查看此时git仓库状态
+> 查看提交日志
+``` bash
+git log	
+```
 
-git add -> git commit
-
-git add .	提交当前目录下所有内容
------------------------------------------------
-git log	查看提交日志
-
-git reset --hard commit_id 	版本回滚
+> 版本回滚
+``` bash
+git reset --hard commit_id 	
+```
 -----------------------------------------------
 分支:
 	查看分支:

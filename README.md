@@ -1,5 +1,5 @@
 ## git客户端:
-######        https://www.sourcetreeapp.com/                   //sourcetree
+#####       https://www.sourcetreeapp.com/                   //sourcetree
 
 
 ## git——代码版本管理工具
@@ -8,18 +8,18 @@
 
 ## git:
 ``` bash
-	0. 图形操作
-		https://www.sourcetreeapp.com/
-	1. 命令		√
-			安装git客户端:
-		https://git-for-windows.github.io/
+0. 图形操作
+	https://www.sourcetreeapp.com/
+1. 命令 √
+	安装git客户端:
+	https://git-for-windows.github.io/
 
-		验证是否安装ok?
-			在任意地方 -> 右键 -> git bash
+	验证是否安装ok?
+	在任意地方 -> 右键 -> git bash
 ```
 
-git bash （命令-linux）
-
+## git bash （命令-linux）
+``` bash
 mkdir	创建目录
 rmdir	删除目录
 touch	创建文件
@@ -33,6 +33,7 @@ cd ..		退回上级
 rm -rf   删除非空目录
 vi  a.txt	->	"i" -> 编辑 -> esc -> :wq
 cat a.txt	查看文件内容
+```
 ----------------------------------------
 仓库(文件夹)
 ----------------------------------------

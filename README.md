@@ -4,20 +4,20 @@ https://www.sourcetreeapp.com/                //sourcetree
 ```
 
 ## git——代码版本管理工具
-	> 分布式管理
-	> 速度快
+> 分布式管理
+> 速度快
 
-	## git:
-    ``` bash
-		0. 图形操作
-			https://www.sourcetreeapp.com/
-		1. 命令		√
-				安装git客户端:
-			https://git-for-windows.github.io/
+## git:
+``` bash
+	0. 图形操作
+		https://www.sourcetreeapp.com/
+	1. 命令		√
+			安装git客户端:
+		https://git-for-windows.github.io/
 
-			验证是否安装ok?
-				在任意地方 -> 右键 -> git bash
-    ```
+		验证是否安装ok?
+			在任意地方 -> 右键 -> git bash
+```
 
 git bash （命令-linux）
 

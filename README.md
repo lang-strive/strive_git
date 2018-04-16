@@ -1,6 +1,6 @@
 ## git客户端:
-#####       https://www.sourcetreeapp.com/                   //sourcetree
-
+> sourcetree
+#####       https://www.sourcetreeapp.com/                   
 
 ## git——代码版本管理工具
 > 分布式管理

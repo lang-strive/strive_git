@@ -41,6 +41,23 @@ cat a.txt	查看文件内容
 ``` bash
 git init
 ```
+> 拉取项目
+``` bash
+git clone 项目地址
+```
+> 本地正常操作
+``` bash
+git add .
+git commit -m "xxxx"
+```
+> 提交
+``` bash
+git push
+```
+> 更新
+``` bash
+git pull
+```
 > 查看此时git仓库状态
 ``` bash
 git status

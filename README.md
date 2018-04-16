@@ -75,13 +75,19 @@ git branch
 	git checkout  -b 分支名称
 ```
 
-合并(把当前工作成功提交到master上):
+> 合并分支(把当前工作成功提交到master上):
+``` bash
 git merge  分支名称
+```
 
-查看当前分支:
+> 查看当前分支:
+``` bash
 git branch
-删除分支:
+```
+> 删除分支:
+``` bash
 git branch -d 分支名
+```
 -----------------------------------------------
 github(码云，gitlab):
 	注册

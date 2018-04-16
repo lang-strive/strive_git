@@ -55,20 +55,25 @@ git log
 ``` bash
 git reset --hard commit_id 	
 ```
------------------------------------------------
-分支:
-	查看分支:
-		git branch
 
-创建分支有两种方法:
-1.	创建
-		git branch 分支名称
-	切换分支:
-		git checkout 分支名称
+
+## 分支:
+> 查看分支:
+``` bash
+git branch
+```
+
+> 创建分支有两种方法:
+``` bash
+1.创建
+	git branch 分支名称
 	
-2.	创建并且切换:  √
-		git checkout  -b 分支名称
-
+2.切换分支:
+	git checkout 分支名称
+	
+3.创建并且切换:  √
+	git checkout  -b 分支名称
+```
 
 合并(把当前工作成功提交到master上):
 git merge  分支名称

@@ -90,24 +90,23 @@ git branch -d 分支名
 ```
 
 
------------------------------------------------
-github(码云，gitlab):
-	注册
 
-如何让本地和github服务器关联?
-	0. 配置本地
-		查看本地git配置: 
-		git config -l   查看配置
-		git config --global user.email “aaa@aa.com”
-		git config --global user.name “ccc”
-	1. 本地生成一个秘钥(SSH key)
-		ssh-keygen -t rsa -C “xxx@xxx.com”  一路回车
-	2. 拿到秘钥
-		当前C盘，当前用户列表里面找到.ssh文件夹，里面有两个文件：
+## 如何让本地和github服务器关联?
+``` bash
+0. 配置本地
+	查看本地git配置: 
+	git config -l   查看配置
+	git config --global user.email "aaa@aa.com"
+	git config --global user.name "ccc"
+1. 本地生成一个秘钥(SSH key)
+	ssh-keygen -t rsa -C “xxx@xxx.com”  一路回车
+2. 拿到秘钥
+	当前C盘，当前用户列表里面找到.ssh文件夹，里面有两个文件：
 id_rsa和id_rsa.pub
-		id_rsa.pub	√	用普通记事本打开
-	3. 把秘钥填写到相应网站上(github)
-		点击头像 -> settings -> SSH and GPG key -> 添加
+	id_rsa.pub	√	用普通记事本打开
+3. 把秘钥填写到相应网站上(github)
+	点击头像 -> settings -> SSH and GPG key -> 添加
+```
 ---------------------------------------------------
 往github上放东西(远程操作):
 1. 确保github上已经建了一个项目:
